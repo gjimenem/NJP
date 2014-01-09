@@ -1,6 +1,6 @@
 package c;
 
 public class file1 {
-	//line equivocada
+	//line correcta para push
 	
 }
